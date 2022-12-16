@@ -14,7 +14,7 @@ Original file is located at
 import nest_asyncio
 nest_asyncio.apply()
 
-# !pip install tensorflow_text
+!pip install tensorflow_text
 
 import tensorflow_text as tf_text
 
